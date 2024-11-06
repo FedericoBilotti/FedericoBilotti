@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m Federico Bilotti, a passionate Unity C# developer. My Interest in game development makes me in continues learning. I'm constantly learning and improving, adopting new technologies and methodologies <br>to enhance my code's performance, for example, learning Unity's new technology, DOTS (Data-Oriented Technology Stack).<br>Currently, I'm nearing the end of my game development degree and working on my final project.<br>📫How to reach me: fedebilotti2001@gmail.com or federico.bilotti@davinci.edu.ar
+Hi! I’m Federico Bilotti, a passionate Unity C# developer. My Interest in game development makes me in continues learning. I'm constantly learning and improving, adopting new technologies and methodologies to enhance my code's performance, for example, learning Unity's new technology, DOTS (Data-Oriented Technology Stack).<br>Currently, I'm nearing the end of my game development degree and working on my final project.<br>📫How to reach me: fedebilotti2001@gmail.com or federico.bilotti@davinci.edu.ar
 
 
 ## 🌐 Socials:
